@@ -1,0 +1,704 @@
+
+ The Ip Size are:1000
+---------- The Following is Comparison-Based Sorting Algorithm for Random Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	2149600 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	726600 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	324900 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	481700 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	603800 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	7600 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	147900 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	114500 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	201100 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	493800 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Reversely Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	1949700 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	219000 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	131600 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	141400 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	552300 nanoseconds
+
+ The Ip Size are:2000
+---------- The Following is Comparison-Based Sorting Algorithm for Random Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	3852600 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	795300 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	417700 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	776600 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	3435200 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	4200 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	314100 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	222400 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	265400 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	548500 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Reversely Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	695200 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	121400 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	172600 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	87200 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	292000 nanoseconds
+
+ The Ip Size are:3000
+---------- The Following is Comparison-Based Sorting Algorithm for Random Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	5449000 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	873300 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	734200 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	801500 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	5228600 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	21100 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	191200 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	249800 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	142500 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	5521700 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Reversely Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	1929000 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	167300 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	245900 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	131500 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	1739700 nanoseconds
+
+ The Ip Size are:5000
+---------- The Following is Comparison-Based Sorting Algorithm for Random Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	9418400 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	1139400 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	1154100 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	1485600 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	11598600 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	10300 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	272300 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	400600 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	133300 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	2518700 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Reversely Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	3897100 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	251500 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	544000 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	160000 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	5420300 nanoseconds
+
+ The Ip Size are:10000
+---------- The Following is Comparison-Based Sorting Algorithm for Random Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	27388900 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	3119900 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	2306400 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	2402000 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	25703100 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	23100 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	744500 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	1140800 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	254400 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	16122400 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Reversely Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	15701100 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	527000 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	821500 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	317100 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	11515500 nanoseconds
+
+ The Ip Size are:20000
+---------- The Following is Comparison-Based Sorting Algorithm for Random Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	92144700 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	3350900 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	2912700 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	3355100 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	73998000 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	19300 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	1059300 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	1866500 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	789400 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	40563800 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Reversely Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	58730500 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	622900 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	1570200 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	720200 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	46527000 nanoseconds
+
+ The Ip Size are:40000
+---------- The Following is Comparison-Based Sorting Algorithm for Random Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	316097900 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	10529100 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	7530900 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	7825700 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	238747700 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	68000 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	1200200 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	2609600 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	1072100 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	188651800 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Reversely Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	231774000 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	5058900 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	1991800 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	1290800 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	220831600 nanoseconds
+
+ The Ip Size are:50000
+---------- The Following is Comparison-Based Sorting Algorithm for Random Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	497274800 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	8359200 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	8253500 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	5552900 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	447977300 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	46300 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	2708200 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	4327300 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	1628700 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	217625100 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Reversely Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	349660800 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	1597100 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	4141000 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	1502300 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	222189200 nanoseconds
+
+ The Ip Size are:60000
+---------- The Following is Comparison-Based Sorting Algorithm for Random Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	822387000 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	13939700 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	11015100 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	13993900 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	998789800 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	124300 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	2470200 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	4101900 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	2340600 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	251752600 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Reversely Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	523094200 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	3456400 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	4040600 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	2490700 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	333477200 nanoseconds
+
+ The Ip Size are:80000
+---------- The Following is Comparison-Based Sorting Algorithm for Random Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	1320857500 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	22197800 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	18082900 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	15198700 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	1062479900 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	75400 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	4039000 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	3936700 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	2185600 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	1028052300 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Reversely Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	923437700 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	3322500 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	3997700 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	2603500 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	758247600 nanoseconds
+
+ The Ip Size are:100000
+---------- The Following is Comparison-Based Sorting Algorithm for Random Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	2206516900 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	21372800 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	12180500 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	14009900 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	1742835100 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	223700 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	7685600 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	6321300 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	3841000 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	1199335300 nanoseconds
+
+---------- The Following is Comparison-Based Sorting Algorithm for Reversely Sorted Numbers ----------
+
+------ Insertion Sort ------ 
+The Execution Time for Insertion Sort is 	1311991500 nanoseconds
+
+------ Merge Sort ------
+
+The Execution Time for Merge Sort is 	6714900 nanoseconds
+
+------ Heap Sorting ------
+
+ The Execution Time for Heap Sort is	6029500 nanoseconds
+
+------ Inplace Quick Sorting ------
+
+The Execution Time for Inplace Quick is 	4324300 nanoseconds
+
+------ Modified Quick Sorting ------
+
+The Execution Time for Modified Quick Sort is 	1037215500 nanoseconds
