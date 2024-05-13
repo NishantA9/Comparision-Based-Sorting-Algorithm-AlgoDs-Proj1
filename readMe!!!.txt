@@ -6,7 +6,6 @@ ITCS 6114/8114 – SPRING 2024
 
 Submitted By:
 Nishant Acharekar – 801363902
-Ashutosh Zawar - 801366153
 
 
 Here are the instructions for running this project:
